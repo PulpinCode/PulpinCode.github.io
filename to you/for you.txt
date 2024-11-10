@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="eng">
+    <head>
+        <meta charset = "utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel="shortcut icon" href="pink heart.png" type="image/x-icon">
+        <title>To you... </title>
+        <link rel="stylesheet" href="styles.css"/>    
+    </head>
+
+    <body>  
+
+        <div id="contenedor">
+
+            <header>
+                <h1> <b>For you...</b>  </h1>
+            </header>
+
+            <section id ="carta">
+                 <h2>Titulo del articulo</h2>
+                <input type="checkbox" id="toggle">
+                 <label for="toggle" id="mostrarCartaBtn"> Click Me!</label>
+
+                  <div id="carta">
+
+                      <h3>Titulo del articulo</h3>
+                      <p>
+                         Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                         Nostrum earum illo voluptates ad sed aut pariatur tempora
+                         modi, veritatis officia eaque velit natus consequatur, minima placeat!
+                         Magnam incidunt quaerat corporis?
+                         </p>
+                  </div>
+            
+
+             </section>
+        
+         <img src="sayyestoheaven.png" width="300" height="200">
+
+       </div>
+  </body>
+
+</html>
